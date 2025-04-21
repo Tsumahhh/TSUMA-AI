@@ -121,17 +121,17 @@ Matrix.ev.on('connection.update', (update) => {
 
 > Simple, Straightforward, But Loaded With Features 🎊. Meet CLOUD-AI WhatsApp Bot.
 
-*Thanks for using CLOUD AI 🚩* 
+*Thanks for using TSUMA AI 🚩* 
 
 > Join WhatsApp Channel: ⤵️  
-https://whatsapp.com/channel/0029VajJoCoLI8YePbpsnE3q
+https://wa.me/254743399594
 
 - *YOUR PREFIX:* = ${prefix}
 
 Don't forget to give a star to the repo ⬇️  
-https://github.com/DEVELOPER-BERA/CLOUD-AI
+https://github.com/Tsumahhh/TSUMA-AI
 
-> © REGARDS BERA`
+> © REGARDS TSUMA`
             });
             initialConnection = false;
         } else {
