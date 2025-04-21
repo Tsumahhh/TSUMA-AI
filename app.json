@@ -1,31 +1,31 @@
 {
-  "name": "CLOUD Ai",
-  "description": "🚀 CLOUD AI WhatsApp MultiDevice Bot – Your ultimate AI-powered assistant, built in Node.js to revolutionize WhatsApp automation! From smart replies to advanced moderation, experience seamless interaction like never before. 💡✨",
+  "name": "TSUMA-AI",
+  "description": "🚀 TSUMA AI WhatsApp MultiDevice Bot – Your ultimate AI-powered assistant, built in Node.js to revolutionize WhatsApp automation! From smart replies to advanced moderation, experience seamless interaction like never before. 💡✨",
   "logo": "https://files.catbox.moe/7jt69h.jpg",
   "keywords": ["BERA-TECH", "whatsapp-bot", "whatsapp-md-bot"],
-  "repository": "https://github.com/DEVELOPER-BERA/CLOUD-AI",
+  "repository": "https://github.com/Tsumahhh/TSUMA-AI",
   "stack": "container",
   "env": { 
   
     "SESSION_ID": {
       "description": "Ensure your session Id starts with the word CLOUD-AI~$",
       "required": true,
-      "value": ""
+      "value": "CLOUD-AI~oNpFwJiR#06YqYIsNURwkAomhLb_lrsR2X6WBFHUPXoHNHoEfWb0"
     },
     "MODE": {
       "description": "Set to 'public' or 'private' to define bot mode",
       "required": true,
-      "value": "public"
+      "value": "private"
     },
     "OWNER_NAME": {
       "description": "Your name as the bot owner",
       "required": true,
-      "value": "BRUCE BERA"
+      "value": "TSUMA"
     },
     "OWNER_NUMBER": {
       "description": "Your WhatsApp number",
       "required": true,
-      "value": "254743982206"
+      "value": "254743399594"
     },
     "AUTO_READ": {
       "description": "Enable bot to auto-read messages (true/false)",
@@ -60,7 +60,7 @@
     "AUTO_STATUS_SEEN": {
       "description": "Enable bot to view statuses (true/false)",
       "required": false,
-      "value": "true"
+      "value": "false"
     },
     "AUTO_STATUS_REPLY": {
       "description": "Enable bot to reply after viewing a status (true/false)",
